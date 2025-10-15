@@ -16,10 +16,10 @@
 
 # Projects
 
-| Project | Description | Tech Stack |  Author |
+<!-- | Project | Description | Tech Stack |  Author |
 | --- | --- | --- | --- |
 | [Tailor Management System](https://github.com/Ahtisham-1214/TailorManagementWeb) | A Web Based system to facilitate tailors customers, orders, measurement, staff and making their life easier!  | `HTML` `CSS` `JS` `JAVA` `JSP` `SERVLET` `MYSQL` | <a href="https://github.com/Ahtisham-1214"><img src="src/icons/2.png"> |
-| `Your Project Name` | `Project Description`| `What you used to build`| `Project Authors Image, not mandatory`|
+| `Your Project Name` | `Project Description`| `What you used to build`| `Project Authors Image, not mandatory`| -->
 
 
 <table>
@@ -46,7 +46,7 @@
       </td>
       <td rowspan="2">
         <a href="https://github.com/Ahtisham-1214">
-          <img src="src/icons/2.png" alt="Author Image" width="150" />
+          <img src="src/icons/2.png" alt="Author Image"  />
         </a>
       </td>
     </tr>
