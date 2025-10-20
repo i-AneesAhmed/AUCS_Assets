@@ -74,6 +74,23 @@
       </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Shahid-0039/School-Management-System">School Management System</a></td>
+      <td>A Desktop based solution to facilitate schools to manage their staff, grading, scheduling, timetable, transport, finance, and exams
+      </td>
+      <td>
+        <code>Java</code>
+        <code>Java Swing</code>
+        <code>OOP</code>
+        <code>MySQL</code>
+        <code>Database</code>
+      </td>
+      <td>
+      <a href="https://github.com/Shahid-0039">
+          <img src="src/icons/Shahid-0039.jpg" alt="Author Image"/>
+        </a> 
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Haziq8900/Bank-Management-System">Bank Management System</a></td>
       <td>An interactive desktop system to manage core banking operations like account handling and financial transactions
       </td>
