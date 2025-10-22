@@ -91,6 +91,23 @@
       </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Bilal-0046/AROR_University_Result_System">Aror University Result System</a></td>
+      <td> A result system which helps to generate mark sheet of students in PDF format and facilitate them to manage it efficiently
+      </td>
+      <td>
+        <code>Python</code>
+        <code>Tkinter</code>
+        <code>Database</code>
+        <code>MySQL Lite</code>
+        <code>GUI</code>
+      </td>
+      <td>
+      <a href="https://github.com/Bilal-0046">
+          <img src="src/icons/Bilal-0046.png" alt="Author Image"/>
+        </a> 
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Haziq8900/Bank-Management-System">Bank Management System</a></td>
       <td>An interactive desktop system to manage core banking operations like account handling and financial transactions
       </td>
