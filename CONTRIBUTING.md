@@ -79,7 +79,7 @@
       </td>
       <td>
         <code>Java</code>
-        <code>Java Swing</code>
+        <code>JavaSwing</code>
         <code>OOP</code>
         <code>MySQL</code>
         <code>Database</code>
@@ -104,6 +104,24 @@
       <td>
       <a href="https://github.com/Bilal-0046">
           <img src="src/icons/Bilal-0046.png" alt="Author Image"/>
+        </a> 
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/asmahussain48/-E-Commerce-Application">E-Commerce Application</a></td>
+      <td>A desktop application to buy and browse mobile phones. Users can sign up, log in, view available mobile phones, add items to a shopping cart, and place orders. The app uses Java Swing for the GUI and MySQL with JDBC for data storage and retrieval. It provides a simple and user-friendly interface for managing products and customer purchases in a desktop shopping experience.
+      </td>
+      <td>
+        <code>Java</code>
+        <code>JavaSwing</code>
+        <code>OOP</code>
+        <code>MySQL</code>
+        <code>Database</code>
+        <code>GUI</code>
+      </td>
+      <td>
+      <a href="https://github.com/asmahussain48">
+          <img src="src/icons/asmahussain48.png" alt="Author Image"/>
         </a> 
       </td>
     </tr>
