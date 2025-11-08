@@ -164,6 +164,23 @@
         </a>
       </td>
     </tr>
+    <tr>
+  <td><a href="https://github.com/i-AneesAhmed/Inventory-System">Inventory Management System</a></td>
+  <td>A desktop application that helps to Manage the resources of inventory (eg, Employees(salary,DOB,DOJ,EMPID, etc), Accessories) and keep record in MySql Database</td>
+  <td>
+    <code>Python</code>
+    <code>Tkinter</code>
+    <code>MySql</code>
+     <code>linear interaction in GUI</code>
+    
+  </td>
+  <td>
+    <a href="https://github.com/i-AneesAhmed">
+      <img src="src/icons/Anees.png" alt="Author Image"/>
+    </a>
+  </td>
+</tr>
+
   </tbody>
 </table>
 
